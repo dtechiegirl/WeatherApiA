@@ -1,16 +1,3 @@
-# wtm_weather_app
-
-A weather app(API CONSUMPTION)
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Built a weather app to consume the meteo api that gets weather condition of a place depending on the logitude and latitide.
+Used BLoC for state management
+![weather](https://github.com/dtechiegirl/WeatherApiA/assets/79475136/d29c77a3-1e9d-458d-88e9-7010f2a0ac24)
